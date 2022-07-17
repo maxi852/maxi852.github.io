@@ -12,11 +12,11 @@ function Introduction() {
     </div>
     <div className='containter-fluid bg-warning py-4'>
         <h2 className='text-center mb-4'>
-          Technologies
+          Tecnologias
         </h2>
         <div className='d-flex flex-row' >
         <div className="card web-sec" style={{width: "12rem"}}>
-          <ul className="list-group list-group-flush text-center">
+          <ul className="list-group list-group-flush text-center ">
             <li className="list-group-item bg-warning bg-opacity-50">HTML5</li>
             <li className="list-group-item bg-warning bg-opacity-50">CSS3</li>
             <li className="list-group-item bg-warning bg-opacity-50">Javascript</li>
